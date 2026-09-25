@@ -1,0 +1,12 @@
+{
+  "name": "paas-test-node",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for testing PaaS deployments",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
